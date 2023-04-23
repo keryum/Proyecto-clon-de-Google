@@ -120,7 +120,7 @@ nav {
     background-size: 13px 17.5px;
     border: none;
     background-repeat: no-repeat;
-    background-image: url("imágenes/pngwing.com.png");
+    background-image: url("imagenes/pngwing.com.png");
     cursor: pointer;
 }
 .recent-container {
@@ -179,7 +179,7 @@ p {
     height: 32px;
     width: 173px;
     background-color: white;
-    background-image: url(imágenes/pngegg1.png);
+    background-image: url(imagenes/pngegg1.png);
     color: #1a73e8ff;
     border-radius: 16px;
     padding: 8px 16px;
